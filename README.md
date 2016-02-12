@@ -1,4 +1,4 @@
-# Support Etiquette Reference Guide
+# Programming Support Etiquette Reference Guide
 
 This document serves as a convenient reference guide for common faux pas of people asking for help in programming chatrooms. Link offenders to the relevant section in this document to reduce stress instantly.
 
