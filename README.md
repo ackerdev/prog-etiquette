@@ -2,6 +2,8 @@
 
 This document serves as a convenient reference guide for common faux pas of people asking for help in programming chatrooms. Link offenders to the relevant section in this document to reduce stress instantly.
 
+See also: [JOBS.md](JOBS.md)
+
 Want to help improve this reference guide? Check out the [contribution guidelines](CONTRIBUTING.md).
 
 ## Don't ask to ask, just ask
